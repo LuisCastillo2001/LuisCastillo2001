@@ -1,4 +1,5 @@
-##                       Hola mi nombre es Luis :smiley_cat:
+<h2 align="center">Hola mi nombre es Luis 😺</h2>  
+  
 - 🔭 Actualmente soy estudiante de ingeniería en ciencias y sistemas en la Universidad San Carlos de Guatemala
 - ⚡ Me gusta mucho programar y resolver diferentes problemas en el ámbito de programación, cualquier duda será un gusto ayudar.
 - 🌱 Tengo experiencia en lenguajes java, python, javascript, Go, también cuento con experiencia en frameworks como react, angular, nodejs, he realizado diferentes proyectos en estos lenguajes  que podrás ver en mis repositorios.
