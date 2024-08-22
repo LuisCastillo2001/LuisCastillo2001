@@ -1,11 +1,14 @@
 ## Hi there 👋
+- 🔭 Actualmente soy estudiante de ingeniería en ciencias y sistemas en la Universidad San Carlos de Guatemala
+![image](https://github.com/user-attachments/assets/549e4fde-959b-4f14-9a4d-a2763a4c92c5)
+
 
 <!--
 **LuisCastillo2001/LuisCastillo2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
