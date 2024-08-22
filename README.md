@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hola mi nombre es Luis :smiley_cat:
 - 🔭 Actualmente soy estudiante de ingeniería en ciencias y sistemas en la Universidad San Carlos de Guatemala
-![gif](https://github.com/user-attachments/assets/549e4fde-959b-4f14-9a4d-a2763a4c92c5)
+- ⚡ Me gusta mucho programar y resolver diferentes problemas en el ámbito de programación, cualquier duda será un gusto ayudar.  
+
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNnbzJ3am9jdjlreXppM3VxcGkxZDczM216MnpmNnVwYmE5Y3AwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif)
 
 
 <!--
