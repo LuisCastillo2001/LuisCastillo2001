@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 Actualmente soy estudiante de ingeniería en ciencias y sistemas en la Universidad San Carlos de Guatemala
-![image](https://github.com/user-attachments/assets/549e4fde-959b-4f14-9a4d-a2763a4c92c5)
+![gif](https://github.com/user-attachments/assets/549e4fde-959b-4f14-9a4d-a2763a4c92c5)
 
 
 <!--
